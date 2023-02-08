@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Digiaccel-Assignment/static/css/main.56fbd29c.css",
+    "main.js": "/Digiaccel-Assignment/static/js/main.2d10b41a.js",
+    "static/js/787.622ff660.chunk.js": "/Digiaccel-Assignment/static/js/787.622ff660.chunk.js",
+    "index.html": "/Digiaccel-Assignment/index.html",
+    "main.56fbd29c.css.map": "/Digiaccel-Assignment/static/css/main.56fbd29c.css.map",
+    "main.2d10b41a.js.map": "/Digiaccel-Assignment/static/js/main.2d10b41a.js.map",
+    "787.622ff660.chunk.js.map": "/Digiaccel-Assignment/static/js/787.622ff660.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56fbd29c.css",
+    "static/js/main.2d10b41a.js"
+  ]
+}
